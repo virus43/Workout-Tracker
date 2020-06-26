@@ -1,4 +1,4 @@
 # Workout-Tracker
 
 ## Heroku Deployed Link
-https://workout-tracker.herokuapp.com/
+https://your-workout-tracker.herokuapp.com/
